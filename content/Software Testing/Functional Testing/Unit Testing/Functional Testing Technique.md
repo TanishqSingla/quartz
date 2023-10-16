@@ -1,0 +1,1 @@
+Functional testing is a sort of testing that aims to determine whether each application feature functions in accordance with the program requirements.

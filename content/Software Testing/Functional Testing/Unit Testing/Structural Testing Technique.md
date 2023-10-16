@@ -1,0 +1,2 @@
+Structural testing examines the structure of a program. It is also known as [[White Box]] or [[Glass Box testing]].  
+This type of testing necessitates a thorough understanding of the code, developers typically perform it.

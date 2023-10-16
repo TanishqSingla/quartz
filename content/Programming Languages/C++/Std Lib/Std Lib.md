@@ -1,0 +1,6 @@
+---
+tags:
+  - Cpp
+---
+
+[[getline(string)]]

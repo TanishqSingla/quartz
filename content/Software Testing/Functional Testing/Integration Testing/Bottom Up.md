@@ -1,0 +1,1 @@
+In bottom-up testing, the lowest level components are tested first, and then to facilitate the testing of higher level components.

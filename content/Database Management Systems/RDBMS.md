@@ -1,0 +1,1 @@
+RDBMS stands for relational database management system.

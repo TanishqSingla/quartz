@@ -1,0 +1,7 @@
+---
+tags:
+  - Go
+---
+
+[[GoRoutines]]
+[[Channels]]

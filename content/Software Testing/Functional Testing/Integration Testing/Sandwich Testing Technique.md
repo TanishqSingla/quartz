@@ -1,0 +1,1 @@
+Sandwich testing technique is a type of [[Integration Testing|integration testing]] technique.

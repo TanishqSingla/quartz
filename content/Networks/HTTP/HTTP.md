@@ -1,0 +1,1 @@
+The Hyper Text Transfer Protocol (HTTP) is a family of stateless, application-level, request/response protocols that share generic interface, extensible semantics, and self-descriptive messages to enable flexible interaction with network-based hypertext information systems.

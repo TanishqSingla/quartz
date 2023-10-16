@@ -1,0 +1,1 @@
+Big Bang testing technique is a type of [[Integration Testing|integration technique]] where most of the developed modules are coupled together to form a complete software system or a major part of the system and then used for integration testing.

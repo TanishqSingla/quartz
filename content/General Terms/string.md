@@ -1,0 +1,2 @@
+- In computer programming a string is traditionally a sequence of characters, either as literal constants or as some kind of variable.
+- A string is considered a data type and is often implemented as an array of data strucutre.
