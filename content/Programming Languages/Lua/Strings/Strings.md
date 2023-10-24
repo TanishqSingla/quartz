@@ -3,4 +3,4 @@ tags:
   - Lua
 ---
 
-[[String interpolation]]
+[[Programming Languages/Lua/Strings/String interpolation]]

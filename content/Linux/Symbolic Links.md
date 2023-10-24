@@ -4,6 +4,7 @@ To create a symbolic link
 ```sh
 ln -s target linkname
 ```
+
 `linkname` is the argument for the command that sets the name of the symbolic link.
 
 ### Note

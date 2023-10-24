@@ -5,4 +5,4 @@ tags:
 ---
 
 [[Programming Languages/Lua/Hello World|Hello World]]
-[[Strings]]
+[[Programming Languages/Lua/Strings/Strings]]

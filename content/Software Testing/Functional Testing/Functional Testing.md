@@ -2,7 +2,6 @@
 tags:
   - SoftwareTesting
 ---
-
 Functional testing is a type of testing that verifies the functionality of a software system or application.  
 It's main goal is to validate system's features, capabilities and interactions with different components.
 
