@@ -51,3 +51,16 @@ router contains our express router middleware, which I am using to route user qu
 
 ## Flow of app
 ![[Screenshot from 2023-11-20 23-35-23.png]]
+
+## Improvement areas
+There are a number of improvements that I would have done if the time permitted:
+
+**Backend**
+- Authentication and authorization for user based on pricing tier
+- User personal data
+- Route to fetch chat history. Currently it is stored in the DB, but the route to show still needs to be implemented
+
+**Frontend**
+- Dashboard for user to manage personal info
+- Accessible user chat history in the home page.
+- Better UI.
